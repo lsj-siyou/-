@@ -1,8 +1,8 @@
 #coding:gbk
 """
 利用决策树算法进行分类
-作者：
-日期：
+作者：李双江
+日期：2019.12.18
 """
 import pandas as pd           # 调入需要用的库
 import numpy as np
